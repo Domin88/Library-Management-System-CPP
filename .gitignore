@@ -1,0 +1,29 @@
+```gitignore
+# Compiled files
+*.exe
+*.out
+*.o
+*.a
+*.so
+*.dylib
+
+# Data files
+*.txt
+!README.md
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build directories
+build/
+Debug/
+Release/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
